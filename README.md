@@ -1,2 +1,1 @@
-# demoapp
-# demoapp
+Project is under snapshot
